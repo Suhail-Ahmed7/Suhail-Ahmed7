@@ -5,13 +5,13 @@
 </h3>
 
 <div style="text-align: right; margin: 10px;">
-  <a href="https://komarev.com/ghpvc/?username=Suhail-Bhand">
-    <img align="right" src="https://visitcount.itsvg.in/api?id=Suhail-Bhand&label=Profile%20Views&icon=2&pretty=true" />
+  <a href="https://komarev.com/ghpvc/?username=Suhail-Ahmed7">
+    <img align="right" src="https://visitcount.itsvg.in/api?id=Suhail-Ahmed7&label=Profile%20Views&icon=2&pretty=true" />
 </a>
 </div>
 
 <p align="center">
-  <a href="https://github.com/Suhail-Bhand"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=Front-end+Webdeveloper;Tech+Enthusiast;Learning+new+Skills.." alt="Typing SVG" /></a></a>
+  <a href="https://github.com/Suhail-Ahmed7"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&pause=1000&color=9DAAF2&center=true&vCenter=true&random=false&width=435&height=52&lines=Front-end+Webdeveloper;Tech+Enthusiast;Learning+new+Skills.." alt="Typing SVG" /></a></a>
 </p>
 <hr/>
 
@@ -24,7 +24,7 @@
 👯 &emsp; I am looking for a <code style="color:#9DAAF2"> frontend developer job</code>.<br/><br/>
 ✌️ &emsp; Enjoy to do <code style="color:#9DAAF2">programming</code> and <code style="color:#9DAAF2">sharing knowledge</code> <br/><br/>
 ❤️ &emsp; I’m currently learning <code style="color:#9DAAF2"> Next.js </code> and <code style="color:#9DAAF2">Node.js</code><br/><br/>
-💬 &emsp; Ask me about anything <a style="color:#9DAAF2" href="https://github.com/Suhail-Bhand/Suhail-Bhand/issues">here</a>
+💬 &emsp; Ask me about anything <a style="color:#9DAAF2" href="https://github.com/Suhail-Ahmed7/Suhail-Ahmed7/issues">here</a>
 </p>
 
 <br/>
@@ -60,34 +60,34 @@
 <br>
 <div align="center">
    <p align="center">
-  <a href="https://github.com/Suhail-Bhand" >
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhail-Bhand&theme=codeSTACKr&border=9DAAF2" alt="Suhail's GitHub streak"/>
+  <a href="https://github.com/Suhail-Ahmed7" >
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Suhail-Ahmed7&theme=codeSTACKr&border=9DAAF2" alt="Suhail's GitHub streak"/>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/Suhail-Bhand">
-    <img style="border: 2px solid #9DAAF2; border-radius: 6px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suhail-Bhand&theme=codeSTACKr" alt="Suhail's GitHub Contribution"/>
+  <a href="https://github.com/Suhail-Ahmed7">
+    <img style="border: 2px solid #9DAAF2; border-radius: 6px;" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Suhail-Ahmed7&theme=codeSTACKr" alt="Suhail's GitHub Contribution"/>
   </a>
 </p>
 
 <a> 
-    <a href="https://github.com/Suhail-Bhand"><img alt="Suhail's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Suhail-Bhand&show_icons=true&count_private=true&border_color=9DAAF2&bg_color=09131B&title_color=FF652F&icon_color=F8D866&text_color=FFFFFF" height="192px" width="49.5%"/></a>
+    <a href="https://github.com/Suhail-Ahmed7"><img alt="Suhail's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=Suhail-Ahmed7&show_icons=true&count_private=true&border_color=9DAAF2&bg_color=09131B&title_color=FF652F&icon_color=F8D866&text_color=FFFFFF" height="192px" width="49.5%"/></a>
 
 
    
-  <a href="https://github.com/Suhail-Bhand"><img alt="Suhail's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Suhail-Bhand&langs_count=8&layout=compact&border_color=9DAAF2&bg_color=09131B&text_color=FFFFFF&title_color=FF652F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/Suhail-Ahmed7"><img alt="Suhail's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=Suhail-Ahmed7&langs_count=8&layout=compact&border_color=9DAAF2&bg_color=09131B&text_color=FFFFFF&title_color=FF652F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <br/>
 </a>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhail-Bhand&custom_title=Suhail's%20GitHub%20Activity%20Graph&bg_color=09131B&color=9DAAF2&line=FF652F&point=9DAAF2&area_color=FF652F&title_color=FF652F&area=true" alt="Suhail's Graph" style="border: 1px solid #9DAAF2; border-radius: 6px;" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Suhail-Ahmed7&custom_title=Suhail's%20GitHub%20Activity%20Graph&bg_color=09131B&color=9DAAF2&line=FF652F&point=9DAAF2&area_color=FF652F&title_color=FF652F&area=true" alt="Suhail's Graph" style="border: 1px solid #9DAAF2; border-radius: 6px;" />
 
 </div>
 <br/>
 <hr/>
 <br/>
 <p align="center">
-  <a href="https://github.com/Suhail-Bhand">
+  <a href="https://github.com/Suhail-Ahmed7">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=48&pause=2000&color=9DAAF2&center=true&vCenter=true&width=600&height=70&lines=Thanks+for+visiting!" alt="Typing SVG" />
   </a>
 </p>
